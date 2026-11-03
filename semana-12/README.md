@@ -91,7 +91,7 @@ semana12/
 - Dashboard funcionando: `docs/dashboard.png`
 - Monitor Serial: `docs/serial.png`
 - Montaje físico: `docs/montaje.jpg`
-- Video de demostración (máx. 3 min): _pegar aquí el enlace_
+- Video de demostración (máx. 3 min): _(https://youtu.be/SAfZ0jS2Ic8?si=6UJZHPCTqKbV1dy5)_
 
 ## 8. Seguridad de credenciales
 
